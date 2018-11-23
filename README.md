@@ -44,4 +44,8 @@ At the root foler:
 
 *Other useful packages:*
 - ```@babel/preset-react```: transpiles React files - https://www.npmjs.com/package/babel-preset-react 
-- ```@babel/register```: transpiles ES6/ES/JSX/JS files required by Node.js - https://www.npmjs.com/package/babel-register 
+- ```@babel/register```: transpiles ES6/ES/JSX/JS files required by Node.js - https://www.npmjs.com/package/babel-register
+
+*Upgrade to Webpack 4 and Babel 7*
+- https://babeljs.io/docs/en/v7-migration
+- https://webpack.js.org/migrate/4/
