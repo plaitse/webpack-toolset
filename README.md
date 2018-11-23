@@ -8,7 +8,7 @@
 - Install Webpack globally via ```npm install -g webpack@latest```
 - Install Webpack-cli globally via ```npm install -g webpack-cli@latest```
 
-*Upgrade to Webpack 4 and Babel 7*
+*Upgrade to Webpack 4 and Babel 7:*
 - https://babeljs.io/docs/en/v7-migration
 - https://webpack.js.org/migrate/4/
 
