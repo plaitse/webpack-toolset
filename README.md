@@ -14,7 +14,7 @@
 
 ## Running
 
-*At the root foler:*
+At the root foler:
 - ```npm run dev``` for development mode - to compile stylesheets and JavaScript files, launch a server and reload the browser when changes are made
 - ```npm run prod``` for production mode - to only compile stylesheets and JavaScript files
 
@@ -39,6 +39,6 @@ Webpack:
 
 ---
 
-Other useful packages:
+*Other useful packages:*
 - ```@babel/preset-react```: transpiles React files - https://www.npmjs.com/package/babel-preset-react 
 - ```@babel/register```: transpiles ES6/ES/JSX/JS files required by Node.js - https://www.npmjs.com/package/babel-register 
