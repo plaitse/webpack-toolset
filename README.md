@@ -1,6 +1,6 @@
 # Webpack toolset
 
-*Module bundler to create static assets with Babel ES6/ES5 transpiler*
+*Module bundler to create static assets with Babel ES6/ES5 transpiler* -
 *Versions: Webpack 4 and Babel 7*
 
 ## Prerequisites
