@@ -1,0 +1,62 @@
+// Variables
+$color__purple--light: #dbb1ff;
+$color__purple--medium: #bb86fc;
+$color__purple--dark: #985eff;
+$color__grey: #333;
+$color__black: #000;
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.content {
+    display: flex;
+    align-items: left;
+    flex-direction: column;
+
+    min-height: 100vh;
+    padding: 20rem 10rem;
+
+    background-color: $color__purple--light;
+
+    &__title {
+        margin-bottom: 3rem;
+
+        color: $color__grey;
+
+        font-family: Baskerville, "Baskerville Old Face";
+        font-size: 4rem;
+        font-weight: 600;
+        letter-spacing: 0.4rem;
+    }
+
+    &__paragraph {
+        margin-bottom: 5rem;
+
+        color: $color__black;
+
+        font-size: 2rem;
+        line-height: 3rem;
+    }
+}
+
+.box {
+    &__one {
+        height: 10vh;
+
+        background-color: $color__purple--medium;
+    }
+
+    &__two {
+        height: 6vh;
+        
+        background-color: $color__purple--dark;
+    }
+}
